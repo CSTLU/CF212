@@ -1,0 +1,8 @@
+For this project you will implement a relatively simple spell checker for English text. The spell checker will incorporate a database of known words, built from a simple word list and organized for efficient searching.
+The controller will read words from an input text file, one by one, and pass them to the spell checker for processing. If the spell checker finds an exact match, it will simply indicate the word is spelled correctly. If not, the spell checker will provide the controller with a (possibly empty) list of suggested spellings. To select suggestions, the spell checker will need some rules for deciding whether a match is close enough. Suppose that W is the word whose spelling is being checked,and that C is a candidate for the suggested spelling list. Your spell checker will add C to the list of suggestions according to the following rules (in the order given):
+
+If the lengths of W and C differ by more than two, do not suggest C.
+
+If W is a prefix of C, or if C is a prefix of W, then suggest C.
+
+Compare the characters of W to those of C, one by one, until reaching the end of one or both strings. If there are no more than two mismatches, and the number of mismatches is less than the lengths of both W and C, suggest C. These rules are somewhat arbitrary, and certainly too simple for a real spell checker; that's acceptable for this assignment since the primary point is the data structure design, not the matching algorithm. 
