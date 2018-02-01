@@ -1,1 +1,112 @@
 
+
+#include<iostream>
+using namespace std;
+
+struct Node {
+	int data;
+	Node *next;
+};
+
+struct List {
+	Node *head; 
+	Node *tail;
+	List()
+   	{
+      		head=NULL;
+      		tail=NULL;
+    	}
+};
+
+// Chèn vào đầu list l
+void pushFront(List &l, const int value){ 
+	Node *p = new Node();
+	p->next = NULL;
+	p->data = value;
+	if(l.head == NULL) { l.head = l.tail = p; } 	// Head của list l rỗng thì gán head = tail = p
+	else{
+		p->next = l.head; 			// Con trỏ next của p trỏ tới head (ban đầu)
+		l.head = p; 				// Head mới đc gán = p 
+	}
+}
+
+
+// Hiển thị list
+void printList(List l) {
+	Node *p = l.head;
+	while(p->next != NULL){
+		cout << p->data << " -> ";
+		p = p->next;
+	}
+	cout << p->data;
+	cout << endl;
+}
+
+// Sắp xếp list
+void QuickSort(List &l) {
+
+	List l1, l2;	// Tạo 2 list để chứa các node trong list l
+	Node *pivot, *p = new Node;
+
+	if(!l.head || !(l.head->next)) return; 		// Nếu trong list l không có head hoặc chỉ có 1 node thì thoát khỏi hàm.
+
+	pivot = l.head; 	// Lấy head(L) làm node trụ
+	l.head = l.head->next; 	// Cập nhật lại head mới cho L 
+	pivot->next = NULL;	// Tách node trụ ra
+	
+	// Chia thành L thành L1, L2, pivot
+	// So sánh pivot với từng node 
+	while(l.head != NULL) {		// Head(L) không rỗng
+		p = l.head;
+		l.head = l.head->next;
+		p->next = NULL;
+		if(p->data <= pivot->data)
+		{ 
+			pushFront(l1,p->data); 	 	//  Nhỏ hơn pivot thì add vào L1(chứa các node có giá trị <= pivot)
+		}
+		else pushFront(l2,p->data);		// Lớn hơn pivot thì add vào L2(chứa các node có giá trị > pivot)
+	}
+	
+	// Gọi đệ quy để sắp xếp L1, L2
+	QuickSort(l1); 
+	QuickSort(l2);
+	
+	// Nối L1, pivot, L2 với nhau
+	
+	// Nối L1->pivot
+	if(l1.head != NULL) { // Head(L1) không rỗng
+
+		l.head = l1.head; 	// Lấy head của L1 gán cho head của L
+		l1.tail->next = pivot;	// Tail của L1 sẽ nối vào pivot
+	
+	} 
+	else { l.head = pivot; }	// Nếu head(L1) rỗng thì Head(L) sẽ được gán bằng pivot.
+	
+	// Nối pivot->L2																									
+	pivot->next = l2.head;
+	
+	if(l2.head != NULL)	// Head(L2) không rỗng
+	{ 
+		l.tail = l2.tail;	// Tail(L) sẽ được gán bằng tail(L2)
+	}
+	else // Head(L2) rỗng
+	{
+		l.tail = pivot;																												// Tail(L) sẽ được gán bằng pivot
+	}	
+}
+
+// main
+int main(){
+	List l;
+	pushFront(l, 5);
+	pushFront(l, 5);
+	pushFront(l, 7);
+	pushFront(l, 6);
+	pushFront(l, 1);
+	pushFront(l, 4);
+	pushFront(l, 3);
+	printList(l);
+	QuickSort(l);
+	printList(l);
+	return 0;
+}																																		
