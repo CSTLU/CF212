@@ -162,11 +162,10 @@ int evalPostfix(const string & postfix) {
 
 // main
 int main() {
-   string infix = "5+6-(2+2*1^(4*1))";
+   string infix;
+   cin>>infix;
    string postfix = infix2postfix(infix);
-   cout<<"\nInfix Expression :: "<<infix;
-   cout<<"\nPostfix Expression :: "<<postfix;
-   cout<<"\nExpression evaluates to "<<evalPostfix(postfix);
-   cout<<endl;
+   cout<<postfix<<endl;
+   cout<<evalPostfix(postfix);
    return 0;
 }
