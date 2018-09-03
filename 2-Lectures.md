@@ -28,7 +28,7 @@ permalink: /lectures/
                   <td>2</td>
                   <td>Analysis of Algorithms</td>
                   <td><a href="{{ "/Materials/Lectures/Analysis.pdf" | relative_url }}">PDF</a></td>
-                  <td></td>
+                  <td>Ch. 4</td>
                 </tr>
                
               </tbody>
