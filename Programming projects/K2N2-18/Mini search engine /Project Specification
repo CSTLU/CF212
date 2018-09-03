@@ -1,9 +1,0 @@
-Project Specification:
-Following is a summary of the requirements from the Requirements specification.
-
-1. Keyword Search: Search for a given keyword and return the set of documents containing the keyword. Rank the query results based on how frequently the keyword has appeared in the documents.
-2. Case-insensitivity: Keyword searches should be case insensitive.
-3. Logical operators: Define logical operators AND and OR that can be used to compose a complex query.
-4. Phrase matching: Phrases that are enclosed in quotes should match exactly.
-5. Stemming: An asterisk (*) at the end of a keyword should match all endings of the word.
-6. The result of a query should be a set of path names ordered in descending order of the number of occurrences of the keywords.
