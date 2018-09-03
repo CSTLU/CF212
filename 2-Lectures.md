@@ -25,10 +25,10 @@ permalink: /lectures/
                   <td></td>
                 </tr>
                 <tr>
-                  <td>1</td>
-                  <td>Arrays, Linked Lists, and Recursion</td>
+                  <td>2</td>
+                  <td>Analysis of Algorithms</td>
+                  <td><a href="{{ "/Materials/Lectures/Analysis.pdf" | relative_url }}">PDF</a></td>
                   <td></td>
-                  <td>Ch. 3 </td>
                 </tr>
                
               </tbody>
