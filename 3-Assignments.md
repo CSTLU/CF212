@@ -41,13 +41,13 @@ permalink: /assignments/
                 </tr>
                 <tr>
                   <td>Sep 4, 18</td>
-                  <td>Homework#2 (part I): From R-3.1 to R-3.10  (Page. 149)</td>
+                  <td>Homework#2 (part I): R-3.1 -> R-3.10  (Page. 149)</td>
                   <td><a href="{{ "https://classroom.github.com/a/khXGoSUY" | relative_url }}">Github</a></td>
                   <td>Sep 11, 18</td>
                 </tr>
                 <tr>
                   <td>Sep 4, 18</td>
-                  <td>Homework#2 (part II): From R-4.6 to R-4.20  (Page. 185) </td>
+                  <td>Homework#2 (part II): R-4.6 -> R-4.20 and R-4.29 -> R-4.38 (Page. 185) </td>
                   <td>Write paper</td>
                   <td>Sep 11, 18</td>
                 </tr>
