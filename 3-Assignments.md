@@ -35,7 +35,7 @@ permalink: /assignments/
                 <tr>
                   <td rowspan="3">2</td>
                   <td>Sep 5, 18</td>
-                  <td>Lab#2: </td>
+                  <td>Lab#2: Tic-tac-toe & Generic singly Linked List </td>
                   <td></td>
                   <td>Sep 5, 18</td>
                 </tr>
