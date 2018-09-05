@@ -39,7 +39,7 @@ permalink: /assignments/
                   <td rowspan="3">2</td>
                   <td>Sep 5, 18</td>
                   <td>Lab#2: Tic-tac-toe & Generic singly Linked List </td>
-                  <td><a href="{{ "/Materials/Codes/week2/tic-tac-toe.cpp" | relative_url }}">Code</a><a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week2/Lab2.1.ipynb" | relative_url }}">Lab2.1</a>
+                  <td><a href="{{ "/Materials/Codes/week2/tic-tac-toe.cpp" | relative_url }}">Code(tictactoe)</a>, <a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week2/Lab2.1.ipynb" | relative_url }}">Lab2.1</a>, 
                   <a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week2/Lab2.2.ipynb" | relative_url }}">Lab2.2</a></td>
                   <td></td>
                   <td>Sep 5, 18</td>
