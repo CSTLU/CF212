@@ -31,7 +31,7 @@ permalink: /assignments/
                 <tr>
                   <td>Aug 28, 18</td>
                   <td>Homework#1: P-2.3 (Page. 101)</td>
-                  <td></td>
+                  <td><a href="{{ "/Materials/Codes/Week1/hw1.cpp" | relative_url }}">Code</a></td>
                   <td><a href="{{ "https://classroom.github.com/a/bY9aTaT1" | relative_url }}">Github</a></td>
                   <td>Sep 5, 18</td>
                 </tr>
