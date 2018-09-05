@@ -14,7 +14,7 @@ permalink: /assignments/
                     <th>Week</th>
                     <th>Week Of</th>
                     <th>Name</th>
-                    <th><a href="{{ "/Materials/data-structures-and-algorithms-in-c.pdf" | relative_url }}">Link</a></th>
+                    <th><a href="{{ "https://www.dropbox.com/s/xzht4j9zshqwn7q/data-structures-and-algorithms-in-c-plus-plus.pdf?dl=0" | relative_url }}">Link</a></th>
                     <th>Due </th>
                 </tr>
               </thead>
