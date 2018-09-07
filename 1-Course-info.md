@@ -298,7 +298,7 @@ Ideally, you have to taken C121 and CS122. If not, you might get away it, but if
                 </tr>
                 <tr>
                   <td></td>
-                  <td>Teaching assistant</td>
+                  <td><a href="https://join.slack.com/t/ctdl-vnu/shared_invite/enQtNDMwNzc3OTYzNjIwLTc0N2I0NTc3NTc2MDQ1NzdkNjhiZDQ2N2I4Mjk4NjViYTViNjQ3YTRiYjNmZjQ5MDcyM2YyNzA0YWI4YTkwMWY">Slack</a></td>
                   <td></td>
                   <td></td>
                   <td></td>
