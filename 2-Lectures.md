@@ -38,10 +38,17 @@ permalink: /lectures/
                 </tr>
                 <tr>
                   <td>4</td>
+                  <td>Stack and Queue</td>
+                  <td><a href="{{ "/Materials/Lectures/stacks_and_queues.pdf" | relative_url }}">PDF</a></td>
+                  <td>Ch. 3</td>
+                </tr>
+                <tr>
+                  <td>5</td>
                   <td>Recursion</td>
                   <td></td>
                   <td>Ch. 3</td>
                 </tr>
+
                
               </tbody>
             </table>
