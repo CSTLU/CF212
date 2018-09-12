@@ -64,7 +64,7 @@ permalink: /assignments/
                   <td>Sep 12, 18</td>
                   <td>Lab#3 & Homework#3: Linked List (cont.)</td>
                   <td></td>
-                  <td><a href="{{ "https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists" | relative_url }}">Github</a></td>
+                  <td><a href="{{ "https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists" | relative_url }}">HackerRank</a></td>
                   <td>Sep 19, 18</td>
                 </tr>
                
