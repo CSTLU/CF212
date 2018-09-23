@@ -10,7 +10,10 @@ class LinkedList
 	Node<T> * tail;
 	int size;
 public:
-	LinkedList(){}
+	LinkedList(){
+		this -> head = NULL;
+		this -> tail = NULL;	
+	}
 	//front
 	void pushFront(T data)
 	{
