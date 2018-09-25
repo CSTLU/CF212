@@ -72,7 +72,7 @@ permalink: /assignments/
                   <td>Sep 25, 18</td>
                   <td>Lab#5 & Homework#5: Evaluate expressions</td>
                   <td></td>
-                  <td><a href="{{ "/Materials/Homeworks/week2/homework#2.pdf" | relative_url }}">PDF</a></td>
+                  <td><a href="{{ "/Materials/Homeworks/week2/homework2.pdf" | relative_url }}">PDF</a></td>
                   <td>Sep 19, 18</td>
                 </tr>
                
