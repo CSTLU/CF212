@@ -45,7 +45,13 @@ permalink: /lectures/
                 <tr>
                   <td>5</td>
                   <td>Recursion</td>
-                  <td></td>
+                  <td><a href="{{ "/Materials/Lectures/L03_Recursion.pdf" | relative_url }}">PDF</a></td>
+                  <td>Ch. 3</td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>Tree</td>
+                  <td><a href="{{ "/Materials/Lectures/trees.pdf" | relative_url }}">PDF</a></td>
                   <td>Ch. 3</td>
                 </tr>
 
