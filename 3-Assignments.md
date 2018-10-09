@@ -58,7 +58,6 @@ permalink: /assignments/
                   <td>Write paper</td>
                   <td>Sep 11, 18</td>
                 </tr>
-
                 <tr>
                   <td >3</td>
                   <td>Sep 12, 18</td>
@@ -74,6 +73,14 @@ permalink: /assignments/
                   <td></td>
                   <td><a href="{{ "/Materials/Homeworks/week2/Homework2.cpp" | relative_url }}">CPP, </a><a href="{{ "/Materials/Homeworks/week2/homework2.pdf" | relative_url }}">PDF</a></td>
                   <td>Sep 19, 18</td>
+                </tr>
+                 <tr>
+                  <td >6</td>
+                  <td>Oct 9, 18</td>
+                  <td>Midterm#2</td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/AKWSZih2" | relative_url }}">Submit</a></td>
+                  <td>Oct 9, 18</td>
                 </tr>
                
               </tbody>
