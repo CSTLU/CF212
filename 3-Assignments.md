@@ -82,6 +82,22 @@ permalink: /assignments/
                   <td><a href="{{ "https://classroom.github.com/a/AKWSZih2" | relative_url }}">Submit</a></td>
                   <td>Oct 9, 18</td>
                 </tr>
+                <tr>
+                  <td >7</td>
+                  <td>Oct 9, 18</td>
+                  <td>Sorts in Singly Linked List</td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/0_xqvKP5" | relative_url }}">Submit</a></td>
+                  <td>Oct 16, 18</td>
+                </tr>
+                <tr>
+                  <td >8</td>
+                  <td>Oct 16, 18</td>
+                  <td>Final project</td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/cEl02y20" | relative_url }}">Submit</a></td>
+                  <td>Oct 30, 18</td>
+                </tr>
                
               </tbody>
             </table>
