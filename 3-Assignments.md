@@ -71,7 +71,7 @@ permalink: /assignments/
                   <td>Sep 25, 18</td>
                   <td>Lab#5 & Homework#5: Evaluate expressions</td>
                   <td></td>
-                  <td><a href="{{ "/Materials/Homeworks/week2/Homework2.cpp" | relative_url }}">CPP, </a><a href="{{ "/Materials/Homeworks/week2/homework2.pdf" | relative_url }}">PDF</a></td>
+                  <td><a href="{{ "/Materials/Homeworks/week2/Homework2.cpp" | relative_url }}">CPP, </a><a href="{{ "/Materials/Homeworks/week2/homework2.pdf" | relative_url }}">PDF</a><a href="{{ "https://classroom.github.com/a/k3IRvbzm" | relative_url }}"> Submit</a></td>
                   <td>Sep 19, 18</td>
                 </tr>
                  <tr>
