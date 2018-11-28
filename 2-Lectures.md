@@ -49,13 +49,29 @@ permalink: /lectures/
                   <td>Ch. 3</td>
                 </tr>
                 <tr>
-                  <td>5</td>
-                  <td>Tree</td>
+                  <td>6</td>
+                  <td>Tree and BT</td>
                   <td><a href="{{ "/Materials/Lectures/trees.pdf" | relative_url }}">PDF</a></td>
                   <td>Ch. 3</td>
                 </tr>
-
-               
+                <tr>
+                  <td>7</td>
+                  <td>Binary search tree: Basic operations</td>
+                  <td><a href="{{ "/Materials/Lectures/tree_cont.pdf" | relative_url }}">PDF</a></td>
+                  <td>Ch. 3</td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td>Tree balance</td>
+                  <td><a href="{{ "/Materials/Lectures/trees_balance.pdf" | relative_url }}">PDF</a></td>
+                  <td>Ch. 3</td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td>AVL</td>
+                  <td><a href="{{ "/Materials/Lectures/avl.pdf" | relative_url }}">PDF</a></td>
+                  <td>Ch. 3</td>
+                </tr>
               </tbody>
             </table>
           </div>
