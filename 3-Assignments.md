@@ -22,18 +22,18 @@ permalink: /assignments/
               <tbody>
                 <tr>
                   <td rowspan="2">1</td>
-                  <td>Aug 28, 18</td>
-                  <td>Lab#1: C-1.8 (page. 62)</td>
+                  <td></td>
+                  <td>)</td>
                   <td></td>
                   <td></td>
-                  <td>Aug 28, 18</td>
+                  <td></td>
                 </tr>
                 <tr>
-                  <td>Aug 28, 18</td>
-                  <td>Homework#1: P-2.3 (Page. 101)</td>
-                  <td><a href="{{ "/Materials/Codes/Week1/hw1.cpp" | relative_url }}">Code</a></td>
-                  <td><a href="{{ "https://classroom.github.com/a/bY9aTaT1" | relative_url }}">Github</a></td>
-                  <td>Sep 5, 18</td>
+                  <td>Dec 3, 18</td>
+                  <td>Homework#1: week2_algorithmic_warmup (Cousera)</td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/bY9aTaT1" | relative_url }}">Submit</a></td>
+                  <td>Dec 10, 18</td>
                 </tr>
                 <tr>
                   <td rowspan="3">2</td>
