@@ -22,20 +22,20 @@ permalink: /assignments/
               <tbody>
                 <tr>
                   <td rowspan="2">1</td>
+                  <td>Dec 3, 18</td>
+                  <td>Lab#1: Overview C++ and Pointer</td>
                   <td></td>
-                  <td>)</td>
-                  <td></td>
-                  <td></td>
+                  <td><a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week1/Lab1.ipynb" | relative_url }}">Github</a></td>
                   <td></td>
                 </tr>
                 <tr>
                   <td>Dec 3, 18</td>
-                  <td>Homework#1: week2_algorithmic_warmup (Cousera)</td>
+                  <td>Homework#1: week2_algorithmic_warmup (Coursera)</td>
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/bY9aTaT1" | relative_url }}">Submit</a></td>
                   <td>Dec 10, 18</td>
                 </tr>
-                <tr>
+                <!--<tr>
                   <td rowspan="3">2</td>
                   <td>Sep 5, 18</td>
                   <td>Lab#2: Tic-tac-toe & Generic singly Linked List </td>
@@ -97,7 +97,7 @@ permalink: /assignments/
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/cEl02y20" | relative_url }}">Submit</a></td>
                   <td>Oct 30, 18</td>
-                </tr>
+                </tr>-->
                
               </tbody>
             </table>
