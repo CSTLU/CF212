@@ -27,7 +27,7 @@ permalink: /lectures/
                 <tr>
                   <td>2</td>
                   <td>Analysis of Algorithms</td>
-                  <td><a href="{{ "/Materials/Lectures/Analysis.pdf" | relative_url }}">PDF</a></td>
+                  <td><a href="{{ "/Materials/Lectures/1-intro-4-1-runtimes.pdf" | relative_url }}">PDF.1</a>, <a href="{{ "/Materials/Lectures/1-intro-4-2-asymptoticnotation1.pdf" | relative_url }}">PDF.2</a>, <a href="{{ "/Materials/Lectures/1-intro-4-2-asymptoticnotation2.pdf" | relative_url }}">PDF.3</a>, <a href="{{ "/Materials/Lectures/1-intro-4-2-asymptoticnotation3.pdf" | relative_url }}">PDF.4</a>, <a href="{{ "/Materials/Lectures/Materials/Lectures/Analysis.pdf" | relative_url }}">PDF.5</a></td>
                   <td>Ch. 4</td>
                 </tr>
                 <tr>

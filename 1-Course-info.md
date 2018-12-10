@@ -311,7 +311,6 @@ Ideally, you have to taken C121 and CS122. If not, you might get away it, but if
 <div class="divider"></div>
 <div class="section">
     <h5>Grading</h5> 
-
     <div class="row">
           <div class="col s12">
             <table class="striped centered">
