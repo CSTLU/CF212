@@ -52,8 +52,8 @@ permalink: /assignments/
                   <td>Sep 11, 18</td>
                 </tr>-->
                 <tr>
+                  <td>2</td>
                   <td>Dec 11, 18</td>
-                  <td></td>
                   <td>Homework#2 (part II): R-4.6 -> R-4.20 and R-4.29 -> R-4.38 (Page. 185) </td>
                   <td></td>
                   <td>Write paper</td>
