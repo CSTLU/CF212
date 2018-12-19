@@ -51,7 +51,7 @@ permalink: /assignments/
                   <td>Dec 18, 18</td>
                 </tr>
                 <tr>
-                  <td rowspan="2">2</td>
+                  <td rowspan="2">3</td>
                   <td>Dec 18, 18</td>
                   <td>Lab#2: Generic singly Linked List</td>
                   <td><a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week2/Lab2.1.ipynb" | relative_url }}">Lab2.1</a>, 
@@ -67,7 +67,7 @@ permalink: /assignments/
                   <td>Dec 25, 18</td>
                 </tr>
                 <tr>
-                <td rowspan="2">2</td>
+                <td rowspan="2">4</td>
                   <td>Dec 25, 18</td>
                   <td>Homework#4: Check brackets in the code <br>Packet processing in network</td>
                   <td></td>
