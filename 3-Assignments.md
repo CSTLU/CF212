@@ -64,7 +64,15 @@ permalink: /assignments/
                   <td>Homework#3: Linked List</td>
                   <td></td>
                   <td><a href="{{ "https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists" | relative_url }}">HackerRank</a></td>
-                  <td>Dec 18, 18</td>
+                  <td>Dec 25, 18</td>
+                </tr>
+                <tr>
+                <td rowspan="2">2</td>
+                  <td>Dec 25, 18</td>
+                  <td>Homework#4: Check brackets in the code <br>Packet processing in network</td>
+                  <td></td>
+                  <td><a href="{{ "http://contest.thanglongit.net/contest/cf21218k3n2" | relative_url }}">Contest.thanglongit.net</a></td>
+                  <td>Jan 1, 19</td>
                 </tr>
                 <!--<tr>
                   <td >5</td>
