@@ -35,22 +35,22 @@ permalink: /assignments/
                   <td><a href="{{ "https://classroom.github.com/a/bY9aTaT1" | relative_url }}">Submit</a></td>
                   <td>Dec 10, 18</td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td rowspan="3">2</td>
-                  <td>Sep 5, 18</td>
-                  <td>Lab#2: Tic-tac-toe & Generic singly Linked List </td>
-                  <td><a href="{{ "/Materials/Codes/week2/tic-tac-toe.cpp" | relative_url }}">Code(tictactoe)</a>, <a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week2/Lab2.1.ipynb" | relative_url }}">Lab2.1</a>, 
+                  <td>Dec 18, 18</td>
+                  <td>Lab#2: Generic singly Linked List </td>
+                  <td><a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week2/Lab2.1.ipynb" | relative_url }}">Lab2.1</a>, 
                   <a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week2/Lab2.2.ipynb" | relative_url }}">Lab2.2</a></td>
                   <td></td>
-                  <td>Sep 5, 18</td>
+                  <td>Dec 25, 18</td>
                 </tr>
-                <tr>
+                <!--<tr>
                   <td>Sep 4, 18</td>
                   <td>Homework#2 (part I): R-3.1 -> R-3.10  (Page. 149)</td>
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/khXGoSUY" | relative_url }}">Github</a></td>
                   <td>Sep 11, 18</td>
-                </tr>-->
+                </tr>
                 <tr>
                   <td>2</td>
                   <td>Dec 11, 18</td>
@@ -58,14 +58,13 @@ permalink: /assignments/
                   <td></td>
                   <td>Write paper</td>
                   <td>Dec 18, 18</td>
-                </tr>
-                <!--<tr>
-                  <td >3</td>
+                </tr>-->
+                <tr>
                   <td>Sep 12, 18</td>
-                  <td>Lab#3 & Homework#3: Linked List (cont.)</td>
+                  <td>Homework#2: Linked List</td>
                   <td></td>
                   <td><a href="{{ "https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists" | relative_url }}">HackerRank</a></td>
-                  <td>Sep 19, 18</td>
+                  <td>Dec 18, 18</td>
                 </tr>
                 <tr>
                   <td >5</td>
