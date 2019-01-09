@@ -68,12 +68,19 @@ permalink: /assignments/
                   <td>Jan 1, 19</td>
                 </tr>
                 <tr>
-                  <td >5</td>
-                  <td>Sep 25, 18</td>
+                  <td rowspan="2">6</td>
+                  <td>Jan 9, 19</td>
                   <td>Lab#5 & Homework#5: Evaluate expressions</td>
                   <td></td>
                   <td><a href="{{ "/Materials/Homeworks/week2/Homework2.cpp" | relative_url }}">CPP, </a><a href="{{ "/Materials/Homeworks/week2/homework2.pdf" | relative_url }}">PDF</a><a href="{{ "https://classroom.github.com/a/k3IRvbzm" | relative_url }}"> Submit</a></td>
-                  <td>Sep 19, 18</td>
+                  <td>Jan 16, 19</td>
+                </tr>
+                <tr>
+                  <td>Jan 9, 19</td>
+                  <td>Homework#6: List stack queues class (final libraries)</td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/IcOvt_qO" | relative_url }}">Submit</a></td>
+                  <td>Jan 16, 19</td>
                 </tr>
                 <!--<tr>
                   <td>Sep 4, 18</td>
@@ -81,8 +88,7 @@ permalink: /assignments/
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/khXGoSUY" | relative_url }}">Github</a></td>
                   <td>Sep 11, 18</td>
-                </tr>-->
-                
+                </tr>
                  <tr>
                   <td >6</td>
                   <td>Oct 9, 18</td>
