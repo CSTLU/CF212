@@ -35,13 +35,6 @@ permalink: /assignments/
                   <td><a href="{{ "https://classroom.github.com/a/bY9aTaT1" | relative_url }}">Submit</a></td>
                   <td>Dec 10, 18</td>
                 </tr>
-                <!--<tr>
-                  <td>Sep 4, 18</td>
-                  <td>Homework#2 (part I): R-3.1 -> R-3.10  (Page. 149)</td>
-                  <td></td>
-                  <td><a href="{{ "https://classroom.github.com/a/khXGoSUY" | relative_url }}">Github</a></td>
-                  <td>Sep 11, 18</td>
-                </tr>-->
                 <tr>
                   <td>2</td>
                   <td>Dec 11, 18</td>
@@ -67,14 +60,14 @@ permalink: /assignments/
                   <td>Dec 25, 18</td>
                 </tr>
                 <tr>
-                <td rowspan="2">4</td>
+                <td rowspan="1">4</td>
                   <td>Dec 25, 18</td>
                   <td>Homework#4: Check brackets in the code <br>Packet processing in network</td>
                   <td></td>
                   <td><a href="{{ "http://contest.thanglongit.net/contest/cf21218k3n2" | relative_url }}">Contest.thanglongit.net</a></td>
                   <td>Jan 1, 19</td>
                 </tr>
-                <!--<tr>
+                <tr>
                   <td >5</td>
                   <td>Sep 25, 18</td>
                   <td>Lab#5 & Homework#5: Evaluate expressions</td>
@@ -82,6 +75,14 @@ permalink: /assignments/
                   <td><a href="{{ "/Materials/Homeworks/week2/Homework2.cpp" | relative_url }}">CPP, </a><a href="{{ "/Materials/Homeworks/week2/homework2.pdf" | relative_url }}">PDF</a><a href="{{ "https://classroom.github.com/a/k3IRvbzm" | relative_url }}"> Submit</a></td>
                   <td>Sep 19, 18</td>
                 </tr>
+                <!--<tr>
+                  <td>Sep 4, 18</td>
+                  <td>Homework#2 (part I): R-3.1 -> R-3.10  (Page. 149)</td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/khXGoSUY" | relative_url }}">Github</a></td>
+                  <td>Sep 11, 18</td>
+                </tr>-->
+                
                  <tr>
                   <td >6</td>
                   <td>Oct 9, 18</td>

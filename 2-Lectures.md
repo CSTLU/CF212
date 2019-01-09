@@ -55,6 +55,12 @@ permalink: /lectures/
                   <td>Ch. 3</td>
                 </tr>
                 <tr>
+                  <td>6.1</td>
+                  <td>Infix To Postfix Examples</td>
+                  <td><a href="{{ "/Materials/Lectures/InfixToPostfixExamples.pdf" | relative_url }}">PDF</a></td>
+                  <td>Ch. 3</td>
+                </tr>
+                <tr>
                   <td>7</td>
                   <td>Binary search tree: Basic operations</td>
                   <td><a href="{{ "/Materials/Lectures/tree_cont.pdf" | relative_url }}">PDF</a></td>
