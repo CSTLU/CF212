@@ -70,7 +70,7 @@ permalink: /assignments/
                 <tr>
                   <td rowspan="2">6</td>
                   <td>Jan 9, 19</td>
-                  <td>Lab#5 & Homework#5: Evaluate expressions</td>
+                  <td>Lab#6: Evaluate expressions</td>
                   <td></td>
                   <td><a href="{{ "/Materials/Homeworks/week2/Homework2.cpp" | relative_url }}">CPP, </a><a href="{{ "/Materials/Homeworks/week2/homework2.pdf" | relative_url }}">PDF</a><a href="{{ "https://classroom.github.com/a/k3IRvbzm" | relative_url }}"> Submit</a></td>
                   <td>Jan 16, 19</td>
