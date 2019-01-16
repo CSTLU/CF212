@@ -82,6 +82,14 @@ permalink: /assignments/
                   <td><a href="{{ "https://classroom.github.com/a/IcOvt_qO" | relative_url }}">Submit</a></td>
                   <td>Jan 16, 19</td>
                 </tr>
+                <tr>
+                  <td >7</td>
+                  <td>Jan 16, 19</td>
+                  <td>Merge Sort, Quick Sort, Radix Sort, Shell Sort(Optional), Comb Sort(Optional) </td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/0_xqvKP5" | relative_url }}">Submit</a></td>
+                  <td>Jan 23, 19</td>
+                </tr>
                 <!--<tr>
                   <td>Sep 4, 18</td>
                   <td>Homework#2 (part I): R-3.1 -> R-3.10  (Page. 149)</td>
