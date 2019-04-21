@@ -5,7 +5,7 @@ permalink: /assignments/
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
-
+<h5>The student downloads <a href="{{ "https://www.dropbox.com/sh/zagde900ice2rzu/AADhi-9EOkIHUU_JV-gtQYNTa?dl=0"| relative_url }}">this template</a> to complete your week's tasks (reports).</h5>
 <div class="row">
           <div class="col s12">
             <table class="striped centered">
@@ -21,6 +21,20 @@ permalink: /assignments/
               </thead>
               <tbody>
                 <tr>
+                  <td rowspan="2">1</td>
+                  <td rowspan="2">April 21, 19</td>
+                  <td>Lab#1: Overview C++ and Pointer</td>
+                  <td></td>
+                  <td><a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week1/Lab1.ipynb" | relative_url }}">Github</a></td>
+                  <td></td>
+                </tr>
+                <tr>
+                  <td>Homework#1: <a href="{{ "https://www.hackerrank.com/tlu-cf212-week1" | relative_url }}">Hackerrank</a>  </td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/bY9aTaT1" | relative_url }}">Submit reports</a></td>
+                  <td>April 29, 19</td>
+                </tr>
+                <!--<tr>
                   <td rowspan="2">1</td>
                   <td>Dec 3, 18</td>
                   <td>Lab#1: Overview C++ and Pointer</td>
@@ -89,7 +103,7 @@ permalink: /assignments/
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/0_xqvKP5" | relative_url }}">Submit</a></td>
                   <td>Jan 23, 19</td>
-                </tr>
+                </tr>-->
                 <!--<tr>
                   <td>Sep 4, 18</td>
                   <td>Homework#2 (part I): R-3.1 -> R-3.10  (Page. 149)</td>

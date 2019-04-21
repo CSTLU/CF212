@@ -290,11 +290,17 @@ Ideally, you have to taken C121 and CS122. If not, you might get away it, but if
               </thead>
               <tbody>
                 <tr>
-                  <td>Thang Nguyen (Davis)</td>
+                  <td>Tran Vinh Duc</td>
+                  <td>Lecturer</td>
+                  <td></td>
+                  <td>Informatics divison</td>
+                  <td></td>
+                <tr>
+                  <td>Thang Nguyen</td>
                   <td>Lecturer</td>
                   <td>thangdn@thanglong.edu.vn</td>
                   <td>Informatics divison</td>
-                  <td>Tue, Thus, Sat 13:00 - 15:00</td>
+                  <td></td>
                 </tr>
                 <tr>
                   <td></td>
