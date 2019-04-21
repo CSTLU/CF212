@@ -20,7 +20,7 @@ By learning, you will teach; By teaching, you will learn.
               <tbody>
                 <tr>
                   <td>22/4/19</td>
-                  <td>Getstart</td>
+                  <td>Get started</td>
                   <td>The student need to print CF212's Textbook and complete Week1's task.</td>
                 </tr>
               </tbody>
