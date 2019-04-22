@@ -31,7 +31,7 @@ permalink: /assignments/
                 <tr>
                   <td>Homework#1: <a href="{{ "https://www.hackerrank.com/tlu-cf212-week1" | relative_url }}">Hackerrank</a>  </td>
                   <td></td>
-                  <td><a href="{{ "https://classroom.github.com/a/bY9aTaT1" | relative_url }}">Submit reports</a></td>
+                  <td><a href="{{ "https://classroom.github.com/a/MN-EJiTP" | relative_url }}">Submit reports</a></td>
                   <td>April 29, 19</td>
                 </tr>
                 <!--<tr>
