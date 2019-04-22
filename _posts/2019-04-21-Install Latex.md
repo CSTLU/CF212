@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Install Latex and Clang-Jupyter notebook environment"
+title: "Install Latex environment"
 ---
 
 In this course, the student need to write the report weekly regarding homeworks. In assignment secsion, we provied a template to do that. But that template was written by LaTeX language. LaTeX, computer programming language used for typesetting technical documents. LaTeX is a free software was created to make it easier to produce general-purpose books, reports, slides (Beamers) and articles within TeX.
