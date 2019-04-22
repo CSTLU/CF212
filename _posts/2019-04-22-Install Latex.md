@@ -7,7 +7,7 @@ In this course, the student need to write the report weekly regarding homeworks.
 
 LaTeX, a skill is very useful and significant for computer science student nowadays. we are recommended you to learn and use this language. This blogs, we will provice you a concept regarding Latex, how to install LateX environment and also how to program quickly.
 
-![Latex](/img/1280px-LaTeX_logo.svg.png)
+![Latex](http://cs.thanglongit.net/CF212/img/1280px-LaTeX_logo.svg.png)
 
 ### I. How to setup environment?
 First of all, LaTeX need to install both Texlive and TexEditor. And two softwares are avariable on both Windows, Linux(Ubuntu) and MacOS. I would recommend you to install the full TeXLive (contain every packages, libraries and about 3.6GB in size).
