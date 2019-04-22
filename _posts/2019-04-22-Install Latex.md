@@ -3,9 +3,9 @@ layout: post
 title: "Install Latex environment"
 ---
 
-In this course, the student need to write the report weekly regarding homeworks. In assignment secsion, we provied a template to do that. But that template was written by LaTeX language. LaTeX, computer programming language used for typesetting technical documents. LaTeX is a free software was created to make it easier to produce general-purpose books, reports, slides (Beamers) and articles within TeX.
+In this course, the student needs to write the report weekly regarding homework. In assignment session, we provided a template to do that. But that template was written by LaTeX language. LaTeX, the computer programming language used for typesetting technical documents. LaTeX is a free software was created to produce general-purpose books, reports, slides (Beamers) and articles.
 
-LaTeX, a skill is very useful and significant for computer science student nowadays. we are recommended you to learn and use this language. This blogs, we will provice you a concept regarding Latex, how to install LateX environment and also how to program quickly.
+LaTeX, skill is very useful and significant for computer science student nowadays. we recommend you to learn and use this language. This blogs, we will provide you a concept regarding Latex, how to install LateX environment and also how to program quickly.
 
 ![Latex](http://cs.thanglongit.net/CF212/img/1280px-LaTeX_logo.svg.png)
 
