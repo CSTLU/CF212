@@ -10,7 +10,7 @@ LaTeX, skill is very useful and significant for computer science student nowaday
 ![Latex](http://cs.thanglongit.net/CF212/img/1280px-LaTeX_logo.svg.png)
 
 ### I. How to setup environment?
-First of all, LaTeX needs to install both Texlive and TexEditor. And both are available on Windows, Linux(Ubuntu) and MacOS. I would recommend you to install the full TeXLive (contain every package, libraries and about 3.6GB in size).
+First of all, LaTeX needs to install both Texlive and TexEditor. And both are available on Windows, Linux(Ubuntu) and MacOS. I would recommend you to install the full TeXLive (contain every package, libraries ~ about 3.6GB in size).
 
 #### 1. Install Texlive-full
 
