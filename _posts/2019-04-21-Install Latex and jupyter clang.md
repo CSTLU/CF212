@@ -18,9 +18,9 @@ sudo apt-get update
 
 sudo apt-get install texlive-full
 ```
-To install on windows, visit: https://www.tug.org/texlive/
+To install on windows, visit [here](https://www.tug.org/texlive/)
 
-and for MacOS, download MacTex (replace TexLive) at https://tug.org/mactex/downloading.html. 
+and for MacOS, download MacTex (replace TexLive) [at here](https://tug.org/mactex/downloading.html). 
 
 ### 2. Install TexEditor
 LaTeX has some common Editor as: TexStudio, TeXMaker.
@@ -31,3 +31,9 @@ sudo apt-get update
 
 sudo apt-get install texstudio
 ```
+
+For windows and macOS, you can search on Google.
+
+## III. Latex tutorial
+
+You can learn Latex from scratch [at here](https://www.youtube.com/watch?v=SoDv0qhyysQ&list=PL1D4EAB31D3EBC449)
