@@ -13,6 +13,7 @@ permalink: /lectures/
                     <th>No.</th>
                     <th>Topics</th>
                     <th>Lecture Materials </th>
+                    <th>Lecturer </th>
                     <th>Readings </th>
                 </tr>
               </thead>
@@ -21,6 +22,7 @@ permalink: /lectures/
                   <td>1</td>
                   <td><a href="{{ "/2019/04/25/week1-lecture-note.html" | relative_url }}">Overview</a></td>
                   <td><a href="{{ "/Materials/Codes/Week1/s1.cc" | relative_url }}">s1.cc</a></td>
+                  <td>T.V.Duc</td>
                   <td></td>
                 </tr>
                 <!--<tr>
