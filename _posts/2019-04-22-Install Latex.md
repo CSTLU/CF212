@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Install Latex environment"
+sum: "In this course, the student needs to write the report weekly regarding homework. In assignment session, we provided a template to do that. But that template was written by LaTeX language. LaTeX, the computer programming language used for typesetting technical documents. LaTeX is a free software was created to produce general-purpose books, reports, slides (Beamers) and articles.
+"
 ---
 
 In this course, the student needs to write the report weekly regarding homework. In assignment session, we provided a template to do that. But that template was written by LaTeX language. LaTeX, the computer programming language used for typesetting technical documents. LaTeX is a free software was created to produce general-purpose books, reports, slides (Beamers) and articles.
