@@ -34,6 +34,14 @@ permalink: /assignments/
                   <td><a href="{{ "https://classroom.github.com/a/MN-EJiTP" | relative_url }}">Submit reports</a></td>
                   <td>April 29, 19</td>
                 </tr>
+                <tr>
+                  <td rowspan="1">1</td>
+                  <td rowspan="1">May 6, 19</td>
+                  <td>Homework#2:<a href="{{ "https://www.hackerrank.com/tlu-cf212-week2" | relative_url }}">Singly Linked List</a> </td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/LvFo_Qyx" | relative_url }}">Submit reports</a></td>
+                  <td></td>
+                </tr>
                 <!--<tr>
                   <td rowspan="2">1</td>
                   <td>Dec 3, 18</td>
