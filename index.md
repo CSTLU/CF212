@@ -21,7 +21,7 @@ By learning, you will teach; By teaching, you will learn.
                 <tr>
                   <td>09/05/19</td>
                   <td>Lecture's note</td>
-                  <td>The CF212's students need to read Big-O visualization notebook! <a href="https://github.com/cstlu/CF212/blob/master/Materials/Labs/bigo-visualization.ipynb">from here</a>. </td>
+                  <td>The CF212's students need to read Big-O visualization notebook! <a href="https://github.com/cstlu/CF212/blob/master/Materials/Labs/bigo-visualization.ipynb">from here</a>. We are going to take a test on next monday. </td>
                 </tr>
                 <tr>
                   <td>28/4/19</td>
