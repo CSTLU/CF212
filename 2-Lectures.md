@@ -20,15 +20,15 @@ permalink: /lectures/
               <tbody>
                 <tr>
                   <td>1</td>
-                  <td><a href="{{ "/2019/04/25/week1-lecture-note.html" | relative_url }}">Overview</a>, <a href="{{ "/Materials/Labs/buoi1.pdf" | relative_url }}">Buoi1.pdf</a></td>
-                  <td><a href="{{ "/Materials/Codes/Week1/s1.cpp" | relative_url }}">s1.cpp</a></td>
+                  <td><a href="{{ "/2019/04/25/week1-lecture-note.html" | relative_url }}">Overview</a></td>
+                  <td><a href="{{ "/Materials/Labs/buoi1.pdf" | relative_url }}">Lecture1.pdf</a>, <a href="{{ "/Materials/Codes/Week1/s1.cpp" | relative_url }}">s1.cpp</a></td>
                   <td>T.V.Duc</td>
                   <td></td>
                 </tr>
                 <tr>
                   <td rowspan="2">2</td>
                   <td rowspan="2">Analysis of Algorithms</td>
-                  <td><a href="{{ "/Materials/Labs/buoi2.pdf" | relative_url }}">Buoi2.pdf</a></td>
+                  <td><a href="{{ "/Materials/Labs/buoi2.pdf" | relative_url }}">Lecture2.pdf</a></td>
                   <td>Ch. 4</td>
                 </tr>
                 <tr>
