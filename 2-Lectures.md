@@ -29,13 +29,12 @@ permalink: /lectures/
                   <td rowspan="2">2</td>
                   <td rowspan="2">Analysis of Algorithms</td>
                   <td><a href="{{ "/Materials/Labs/buoi2.pdf" | relative_url }}">Lecture2.pdf</a></td>
-                  <td>Ch. 4</td>
+                  <td>T.V.Duc</td>
+                  <td rowspan="2">Ch. 4</td>
                 </tr>
                 <tr>
-                  <td>2</td>
-                  <td>Analysis of Algorithms</td>
                   <td><a href="{{ "/Materials/Lectures/1-intro-4-1-runtimes.pdf" | relative_url }}">PDF.1</a>, <a href="{{ "/Materials/Lectures/1-intro-4-2-asymptoticnotation1.pdf" | relative_url }}">PDF.2</a>, <a href="{{ "/Materials/Lectures/1-intro-4-2-asymptoticnotation2.pdf" | relative_url }}">PDF.3</a>, <a href="{{ "/Materials/Lectures/1-intro-4-2-asymptoticnotation3.pdf" | relative_url }}">PDF.4</a>, <a href="{{ "/Materials/Lectures/Materials/Lectures/Analysis.pdf" | relative_url }}">PDF.5</a>,<a href="https://github.com/cstlu/CF212/blob/master/Materials/Labs/bigo-visualization.ipynb">Notebook</a></td>
-                  <td>Ch. 4</td>
+                  <td>Davis</td>
                 </tr>
                 <!--<tr>
                   <td>2</td>
