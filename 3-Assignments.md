@@ -35,7 +35,7 @@ permalink: /assignments/
                   <td>April 29, 19</td>
                 </tr>
                 <tr>
-                  <td rowspan="1">1</td>
+                  <td rowspan="1">2</td>
                   <td rowspan="1">May 6, 19</td>
                   <td>Homework#2:<a href="{{ "https://www.hackerrank.com/tlu-cf212-week2" | relative_url }}">Singly Linked List</a> </td>
                   <td></td>
@@ -58,9 +58,9 @@ permalink: /assignments/
                   <td>Dec 10, 18</td>
                 </tr>-->
                 <tr>
-                  <td>2</td>
+                  <td>3</td>
                   <td>May 13, 19</td>
-                  <td>Homework#2 (part II): R-4.6 -> R-4.20 and R-4.29 -> R-4.38 (Page. 185) </td>
+                  <td>Homework#3 (part II): R-4.6 -> R-4.20 and R-4.29 -> R-4.38 (Page. 185) </td>
                   <td></td>
                   <td>Write paper</td>
                   <td>May 20, 19</td>
