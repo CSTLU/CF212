@@ -21,7 +21,7 @@ permalink: /lectures/
                 <tr>
                   <td>1</td>
                   <td><a href="{{ "/2019/04/25/week1-lecture-note.html" | relative_url }}">Overview</a></td>
-                  <td><a href="{{ "/Materials/Labs/buoi1.pdf" | relative_url }}">Lecture1.pdf</a>, <a href="{{ "/Materials/Codes/Week1/s1.cpp" | relative_url }}">s1.cpp</a></td>
+                  <td><a href="{{ "/Materials/Labs/buoi1.pdf" | relative_url }}">Lecture1.pdf</a>, <a href="{{ "/Materials/Codes/Week1/s1.cpp" | relative_url }}">s1.cpp</a>, <a href="{{ "https://github.com/cstlu/CF212/blob/master/Materials/Labs/week1/Lab1.ipynb" | relative_url }}">Notebook</a></td>
                   <td>T.V.Duc</td>
                   <td></td>
                 </tr>
