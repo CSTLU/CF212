@@ -37,7 +37,7 @@ permalink: /assignments/
                 <tr>
                   <td rowspan="1">2</td>
                   <td rowspan="1">May 6, 19</td>
-                  <td>Homework#2:<a href="{{ "https://www.hackerrank.com/tlu-cf212-week2" | relative_url }}">Singly Linked List</a> </td>
+                  <td>Homework#2:<a href="{{ "https://www.hackerrank.com/tlu-cf212-week2" | relative_url }}">Singly Linked List and Lecture sessions's assignment</a> </td>
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/LvFo_Qyx" | relative_url }}">Submit reports</a></td>
                   <td></td>
