@@ -19,6 +19,11 @@ By learning, you will teach; By teaching, you will learn.
               </thead>
               <tbody>
                 <tr>
+                  <td>13/05/19</td>
+                  <td>T.V.Duc</td>
+                  <td>The CF212's students need to visit <a href="{{ "/Materials/Labs/buoi3.pdf" | relative_url }}">Lecture3.pdf</a>.</td>
+                </tr>
+                <tr>
                   <td>09/05/19</td>
                   <td>Lecture's note</td>
                   <td>The CF212's students need to read Big-O visualization notebook <a href="https://github.com/cstlu/CF212/blob/master/Materials/Labs/bigo-visualization.ipynb">from here</a>. We are going to take a test on next monday. </td>
