@@ -21,7 +21,7 @@ By learning, you will teach; By teaching, you will learn.
                 <tr>
                   <td>13/05/19</td>
                   <td>T.V.Duc</td>
-                  <td>The CF212's students need to visit <a href="{{ "/Materials/Labs/buoi3.pdf" | relative_url }}">Lecture3.pdf</a>.</td>
+                  <td>Before lecture lesson start, The CF212's students need to visit <a href="{{ "/Materials/Labs/buoi3.pdf" | relative_url }}">Lecture3.pdf</a>.</td>
                 </tr>
                 <tr>
                   <td>09/05/19</td>
