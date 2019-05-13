@@ -56,15 +56,15 @@ permalink: /assignments/
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/bY9aTaT1" | relative_url }}">Submit</a></td>
                   <td>Dec 10, 18</td>
-                </tr>
+                </tr>-->
                 <tr>
                   <td>2</td>
-                  <td>Dec 11, 18</td>
+                  <td>May 13, 19</td>
                   <td>Homework#2 (part II): R-4.6 -> R-4.20 and R-4.29 -> R-4.38 (Page. 185) </td>
                   <td></td>
                   <td>Write paper</td>
-                  <td>Dec 18, 18</td>
-                </tr>
+                  <td>May 20, 19</td>
+                </tr><!--
                 <tr>
                   <td rowspan="2">3</td>
                   <td>Dec 18, 18</td>
