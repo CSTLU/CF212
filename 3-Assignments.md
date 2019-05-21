@@ -42,14 +42,6 @@ permalink: /assignments/
                   <td><a href="{{ "https://classroom.github.com/a/LvFo_Qyx" | relative_url }}">Submit reports</a></td>
                   <td></td>
                 </tr>
-                        <tr>
-                  <td rowspan="1">2</td>
-                  <td rowspan="1">May 6, 19</td>
-                  <td>test</td>
-                  <td></td>
-                  <td><a href="{{ "https://classroom.github.com/a/NqzJO6lV" | relative_url }}">Submit reports</a></td>
-                  <td></td>
-                </tr>
                 <!--<tr>
                   <td rowspan="2">1</td>
                   <td>Dec 3, 18</td>
@@ -88,15 +80,15 @@ permalink: /assignments/
                   <td></td>
                   <td><a href="{{ "https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=linked-lists" | relative_url }}">HackerRank</a></td>
                   <td>Dec 25, 18</td>
-                </tr>
+                </tr>-->
                 <tr>
                 <td rowspan="1">4</td>
                   <td>Dec 25, 18</td>
-                  <td>Homework#4: Check brackets in the code <br>Packet processing in network</td>
+                  <td><a href="{{ "http://contest.thanglongit.net/contest/cf21218k3n3" | relative_url }}">Homework#4:Contest.thanglongit.net</a></td>
                   <td></td>
-                  <td><a href="{{ "http://contest.thanglongit.net/contest/cf21218k3n2" | relative_url }}">Contest.thanglongit.net</a></td>
-                  <td>Jan 1, 19</td>
-                </tr>
+                  <td><a href="{{ "https://classroom.github.com/a/RIP9gliK" | relative_url }}">Submit reports</a></td>
+                  <td> May 27, 19</td>
+                </tr><!--
                 <tr>
                   <td rowspan="2">6</td>
                   <td>Jan 9, 19</td>
