@@ -43,6 +43,17 @@ permalink: /lectures/
                   <td>T.V.Duc</td>
                   <td rowspan="1"></td>
                 </tr>
+                <tr>
+                  <td rowspan="2">4</td>
+                  <td>Stack and Queue</td>
+                  <td><a href="{{ "/Materials/Lectures/stacks_and_queues.pdf" | relative_url }}">PDF</a></td>
+                  <td>Ch. 5</td>
+                </tr>
+                <tr>
+                  <td>Recursion</td>
+                  <td><a href="{{ "/Materials/Lectures/L03_Recursion.pdf" | relative_url }}">PDF</a></td>
+                  <td>Ch. 3</td>
+                </tr>
                 <!--<tr>
                   <td>2</td>
                   <td>Analysis of Algorithms</td>

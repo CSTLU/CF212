@@ -60,7 +60,7 @@ permalink: /assignments/
                 <tr>
                   <td rowspan="2">3</td>
                   <td rowspan="2">May 13, 19</td>
-                  <td>Homework#3 (part II): R-4.6 -> R-4.20 and R-4.29 -> R-4.38 (Page. 185) </td>
+                  <td>Homework#3: R-4.6 -> R-4.20 and R-4.29 -> R-4.38 (Page. 185) </td>
                   <td></td>
                   <td>Write paper</td>
                   <td>May 20, 19</td>
@@ -82,7 +82,7 @@ permalink: /assignments/
                   <td>Dec 25, 18</td>
                 </tr>-->
                 <tr>
-                  <td>Homework#3:Vector</td>
+                  <td>Homework#3: Vector</td>
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/bWCcS8V5" | relative_url }}">Submit reports</a></td>
                   <td> May 22, 19</td>
