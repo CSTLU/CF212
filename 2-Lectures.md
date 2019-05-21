@@ -37,21 +37,29 @@ permalink: /lectures/
                   <td>Davis</td>
                 </tr>
                 <tr>
-                  <td rowspan="1">3</td>
+                  <td rowspan="2">3</td>
                   <td rowspan="1">Vector</td>
                   <td><a href="{{ "/Materials/Labs/buoi3.pdf" | relative_url }}">Lecture3.pdf</a></td>
                   <td>T.V.Duc</td>
                   <td rowspan="1"></td>
                 </tr>
                 <tr>
+                  <td>Arrays and Linked List</td>
+                  <td><a href="{{ "/Materials/Lectures/arrays_and_lists.pdf" | relative_url }}">PDF</a></td>
+                  <td>Davis</td>
+                  <td>Ch. 3</td>
+                </tr>
+                <tr>
                   <td rowspan="2">4</td>
                   <td>Stack and Queue</td>
                   <td><a href="{{ "/Materials/Lectures/stacks_and_queues.pdf" | relative_url }}">PDF</a></td>
+                  <td>Davis</td>
                   <td>Ch. 5</td>
                 </tr>
                 <tr>
                   <td>Recursion</td>
                   <td><a href="{{ "/Materials/Lectures/L03_Recursion.pdf" | relative_url }}">PDF</a></td>
+                  <td>Davis</td>
                   <td>Ch. 3</td>
                 </tr>
                 <!--<tr>
