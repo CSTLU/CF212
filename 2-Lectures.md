@@ -50,7 +50,7 @@ permalink: /lectures/
                   <td>Ch. 3</td>
                 </tr>
                 <tr>
-                  <td rowspan="2">4</td>
+                  <td rowspan="3">4</td>
                   <td>Stack and Queue</td>
                   <td><a href="{{ "/Materials/Lectures/stacks_and_queues.pdf" | relative_url }}">PDF</a></td>
                   <td>Davis</td>
@@ -63,10 +63,10 @@ permalink: /lectures/
                   <td>Ch. 3</td>
                 </tr>
                 <tr>
-                  <td rowspan="2">Singly Linked List</td>
+                  <td rowspan="1">Singly Linked List</td>
                   <td><a href="{{ "/Materials/Labs/buoi4.pdf" | relative_url }}">Lecture4.pdf</a></td>
                   <td>T.V.Duc</td>
-                  <td rowspan="2">Ch. 3</td>
+                  <td rowspan="1">Ch. 3</td>
                 </tr>
                 <!--<tr>
                   <td>2</td>
