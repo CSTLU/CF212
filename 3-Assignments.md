@@ -90,7 +90,7 @@ permalink: /assignments/
                 <tr>
                 <td rowspan="1">4</td>
                   <td>May 20, 19</td>
-                  <td><a href="{{ "http://contest.thanglongit.net/contest/cf21218k3n3" | relative_url }}">Homework#4:Contest.thanglongit.net</a></td>
+                  <td><a href="{{ "http://contest.thanglongit.net/contest/cf21218k3n3" | relative_url }}">Homework#4:Contest.thanglongit.net and Lecture 4's assignment</a></td>
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/RIP9gliK" | relative_url }}">Submit reports</a></td>
                   <td> May 27, 19</td>

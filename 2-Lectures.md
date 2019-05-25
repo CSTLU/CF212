@@ -62,6 +62,12 @@ permalink: /lectures/
                   <td>Davis</td>
                   <td>Ch. 3</td>
                 </tr>
+                <tr>
+                  <td rowspan="2">Singly Linked List</td>
+                  <td><a href="{{ "/Materials/Labs/buoi4.pdf" | relative_url }}">Lecture4.pdf</a></td>
+                  <td>T.V.Duc</td>
+                  <td rowspan="2">Ch. 3</td>
+                </tr>
                 <!--<tr>
                   <td>2</td>
                   <td>Analysis of Algorithms</td>
