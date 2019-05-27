@@ -94,7 +94,16 @@ permalink: /assignments/
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/RIP9gliK" | relative_url }}">Submit reports</a></td>
                   <td> May 27, 19</td>
-                </tr><!--
+                </tr>
+                <tr>
+                  <td >7</td>
+                  <td>May 27, 19</td>
+                  <td>Merge Sort, Quick Sort, Radix Sort, Shell Sort(Optional), Comb Sort(Optional) </td>
+                  <td></td>
+                  <td><a href="{{ "https://classroom.github.com/a/ABzHC3ys" | relative_url }}">Submit</a></td>
+                  <td>June 3, 19</td>
+                </tr>
+                <!--
                 <tr>
                   <td rowspan="2">6</td>
                   <td>Jan 9, 19</td>
