@@ -68,6 +68,13 @@ permalink: /lectures/
                   <td>T.V.Duc</td>
                   <td rowspan="1">Ch. 3</td>
                 </tr>
+                <tr>
+                  <td rowspan="1">5</td>
+                  <td rowspan="1">Doubly Linked List</td>
+                  <td><a href="{{ "/Materials/Labs/buoi5.pdf" | relative_url }}">Lecture5.pdf</a></td>
+                  <td>T.V.Duc</td>
+                  <td rowspan="1">Ch. 3</td>
+                </tr>
                 <!--<tr>
                   <td>2</td>
                   <td>Analysis of Algorithms</td>
