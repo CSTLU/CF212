@@ -101,7 +101,7 @@ permalink: /assignments/
                   <td>Merge Sort, Quick Sort, Radix Sort, Shell Sort(Optional), Comb Sort(Optional) </td>
                   <td></td>
                   <td><a href="{{ "https://classroom.github.com/a/ABzHC3ys" | relative_url }}">Submit</a></td>
-                  <td>June 3, 19</td>
+                  <td>June 5, 19</td>
                 </tr>
                 <!--
                 <tr>
